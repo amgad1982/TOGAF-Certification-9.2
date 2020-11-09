@@ -1,0 +1,1 @@
+mvn dependency:resolve eclipse:eclipse
