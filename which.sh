@@ -1,0 +1,1 @@
+git remote show origin
